@@ -1,0 +1,6 @@
+[
+    { "keys": ["alt+shift+left"] , "command": "move_text_left" },
+    { "keys": ["alt+shift+right"], "command": "move_text_right" },
+    { "keys": ["alt+shift+up"]   , "command": "move_text_up" },
+    { "keys": ["alt+shift+down"] , "command": "move_text_down" },
+]
