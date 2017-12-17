@@ -1,0 +1,25 @@
+[
+    { "keys": ["alt+shift+left"], "command": "move_text_left", "context":
+        [
+            { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": false }
+        ]
+    },
+
+    { "keys": ["alt+shift+right"], "command": "move_text_right", "context":
+        [
+            { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": false }
+        ]
+    },
+
+    { "keys": ["alt+shift+up"], "command": "move_text_up", "context":
+        [
+            { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": false }
+        ]
+    },
+
+    { "keys": ["alt+shift+down"], "command": "move_text_down", "context":
+        [
+            { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": false }
+        ]
+    },
+]
