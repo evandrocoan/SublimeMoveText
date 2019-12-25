@@ -53,6 +53,7 @@ search for **`MoveText`** and press <kbd>Enter</kbd>
 1. Install keymaps for the commands (see Example.sublime-keymap for my preferred keys)
 
 See also:
+
 1. [ITE - Integrated Toolset Environment](https://github.com/evandrocoan/ITE)
 1. [Package control docs](https://packagecontrol.io/docs/usage) for details.
 
